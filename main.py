@@ -9,11 +9,11 @@ intents.message_content = True
 bot = commands.Bot(command_prefix="$",intents=intents)
 
 curses = {
-    "yup":"😎",
-    "huh":"😎",
-    "mmm":"😎",
-    "that sucks":"😎",
-    "it happens":"😎",
+    "yup":"<:curse1:1338598542570422406>",
+    "huh":"<:curse5:1338599356726644837>",
+    "mmm":"<:curse3:1338599372182523904>",
+    "that sucks":"<:curse4:1338599388410286233>",
+    "it happens":"<:curse5:1338599704333651968>",
 }
 
 
